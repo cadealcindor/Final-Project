@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CadesCrosses", "PythonApplication1\CadesCrosses.pyproj", "{B0D9355E-6BE9-46DD-A25B-A2B747C36463}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0D9355E-6BE9-46DD-A25B-A2B747C36463}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0D9355E-6BE9-46DD-A25B-A2B747C36463}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {924BC60F-D453-4378-AB9E-783AB977DA97}
+	EndGlobalSection
+EndGlobal
